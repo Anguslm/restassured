@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.spartaglobal.restassuredpostcodes2.MultiplePostcodesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.101 s <<< FAILURE! - in com.spartaglobal.restassuredpostcodes2.MultiplePostcodesTest
+com.spartaglobal.restassuredpostcodes2.MultiplePostcodesTest  Time elapsed: 1.099 s  <<< ERROR!
+java.lang.IllegalStateException: Cannot serialize object because no JSON serializer found in classpath. Please put either Jackson (Databind) or Gson in the classpath.
+	at com.spartaglobal.restassuredpostcodes2.MultiplePostcodesTest.setup(MultiplePostcodesTest.java:36)
+

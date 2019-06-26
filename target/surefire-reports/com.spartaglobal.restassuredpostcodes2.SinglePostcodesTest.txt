@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.spartaglobal.restassuredpostcodes2.SinglePostcodesTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.158 s - in com.spartaglobal.restassuredpostcodes2.SinglePostcodesTest
